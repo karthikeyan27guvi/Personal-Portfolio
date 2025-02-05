@@ -1,0 +1,23 @@
+# Personal Portfolio Website
+
+## 📌 Overview
+This is a **personal portfolio website** built using **HTML and CSS** to showcase my projects, skills, and experience. It provides a clean and professional interface for potential employers and clients to explore my work.
+
+## 🎯 Features
+- **Fully Responsive Design** – Ensures a seamless experience on all devices.
+- **Minimalist UI** – Clean and structured layout for easy navigation.
+- **Dedicated Sections** – Includes:
+  - 🏠 **Home** – Introduction and overview.
+  - 📂 **Projects** – Showcasing my key projects.
+  - 📄 **Resume** – Downloadable resume for quick access.
+  - 📞 **Contact** – Contact form and social media links.
+- **Performance Optimized** – Fast loading speeds with efficient CSS.
+
+## 🛠️ Tech Stack
+- **HTML5** – Structuring the content.
+- **CSS3** – Styling and responsiveness.
+
+## 💡 Learnings
+- Improved my **HTML and CSS skills**.
+- Learned about **responsive web design**.
+- Gained experience in **website deployment** using Netlify.
